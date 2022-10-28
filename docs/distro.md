@@ -8,9 +8,9 @@ The distribution index is written in JSON. The general format of the index is as
 {
     "version": "1.0.0",
     "discord": {
-        "clientId": "12334567890123456789",
-        "smallImageText": "WesterosCraft",
-        "smallImageKey": "seal-circle"
+        "clientId": "1011682440215003206",
+        "smallImageText": "LegendMC | play.legendmc.fr",
+        "smallImageKey": "logo"
     },
     "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
@@ -18,7 +18,7 @@ The distribution index is written in JSON. The general format of the index is as
             "id": "Example_Server",
             "name": "WesterosCraft Example Client",
             "description": "Example WesterosCraft server. Connect for fun!",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
+            "icon": "https://legendmc.fr/storage/img/logo.png",
             "version": "0.0.1",
             "address": "join.legendmc.fr:25565",
             "minecraftVersion": "1.18.2",

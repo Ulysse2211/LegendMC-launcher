@@ -7,7 +7,7 @@
   "license": "UNLICENSED",
   "homepage": "https://legendmc.fr",
   "bugs": {
-    "url": ""
+    "url": "https://legendmc.fr/support/tickets/create"
   },
   "private": true,
   "main": "index.js",
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Ulysse2211/LegendMC-launcher.git"
   }
 }

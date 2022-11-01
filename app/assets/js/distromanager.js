@@ -537,8 +537,8 @@ exports.pullRemote = function(){
         return exports.pullLocal()
     }
     return new Promise((resolve, reject) => {
-        const distroURL = 'https://raw.githubusercontent.com/Ulysse2211/legendmc-file-intergrity/main/dev_distribution.json'
-        //const distroURL = 'https://gist.githubusercontent.com/dscalzi/53b1ba7a11d26a5c353f9d5ae484b71b/raw/'
+        const distroURL = 'https://raw.githubusercontent.com/Ulysse2211/legendmc-file-intergrity/main/distribution.json'
+        //const distroURL = 'https://raw.githubusercontent.com/Ulysse2211/legendmc-file-intergrity/main/distribution.json'
         const opts = {
             url: distroURL,
             timeout: 2500
